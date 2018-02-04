@@ -1,2 +1,0 @@
-# codeschool
-code stuff
